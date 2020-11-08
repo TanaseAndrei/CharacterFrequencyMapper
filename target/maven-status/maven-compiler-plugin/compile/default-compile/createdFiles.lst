@@ -1,0 +1,14 @@
+org\ucv\implementations\AnalyzerImpl.class
+org\ucv\implementations\ApplicationImpl.class
+org\ucv\utils\StringUtils.class
+org\ucv\interfaces\AnalyzeMethod.class
+org\ucv\utils\MapPrinter.class
+org\ucv\implementations\NominalCharacterFrequencyImpl.class
+org\ucv\interfaces\Application.class
+org\ucv\implementations\FileInformation.class
+org\ucv\main\Main.class
+org\ucv\interfaces\FileInformationResolver.class
+org\ucv\exceptions\MyFileNotFoundException.class
+org\ucv\implementations\FileInformationResolverImpl.class
+org\ucv\implementations\PercentageCharacterFrequencyImpl.class
+org\ucv\interfaces\Analyzer.class
